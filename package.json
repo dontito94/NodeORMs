@@ -1,0 +1,23 @@
+{
+  "name": "nodeorms",
+  "version": "1.0.0",
+  "description": "for learning orms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dontito94/NodeORMs.git"
+  },
+  "author": "francis tito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dontito94/NodeORMs/issues"
+  },
+  "homepage": "https://github.com/dontito94/NodeORMs#readme",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "sequelize": "^4.34.1"
+  }
+}
